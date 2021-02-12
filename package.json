@@ -1,7 +1,7 @@
 {
-  "name": "wabot-aq",
+  "name": "AOOBOT",
   "version": "1.2.8",
-  "description": "Customizable WhatsApp Bot",
+  "description": "ANIME OTAKU OFFICIAL BOT",
   "depecrated": false,
   "main": "index.js",
   "directories": {
@@ -19,15 +19,15 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/fids20/yabot",
+  "homepage": "https://github.com/apid13/yabott",
   "author": {
-    "name": "arpunchs"
+    "name": "fids"
   },
   "repository": {
-    "url": "https://github.com/fids20/yabot.git"
+    "url": "https://github.com/apid13/yabott.git"
   },
   "bugs": {
-    "url": "https://github.com/fids20/yabot/issues"
+    "url": "https://github.com/apid13/yabott/issues"
   },
   "license": "GPL3",
   "dependencies": {
